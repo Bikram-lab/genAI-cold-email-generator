@@ -1,0 +1,9 @@
+streamlit
+langchain
+chromadb
+requests
+tqdm
+openai
+langchain_groq
+langchain_community
+bs4
